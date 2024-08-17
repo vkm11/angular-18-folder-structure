@@ -1,0 +1,7 @@
+{
+  "name": "backgrund-attached",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
